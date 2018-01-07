@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e2642992f94b470489d5066bab8c32d9
+timeCreated: 1513160670
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Country Western
+  fontNames:
+  - Country Western
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 63ff7af263d517b46b6fe33647ea5887
+timeCreated: 1513074373
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Floor_Object007
+    100004: Floor_Object008
+    100006: Floor_Object009
+    100008: Floor_Object010
+    100010: Floor_Object011
+    100012: Floor_Object012
+    100014: Object001
+    100016: Object002
+    100018: Object003
+    100020: Object004
+    100022: Object005
+    100024: Rectangle004
+    100026: Rectangle005
+    100028: Rectangle007
+    400000: //RootNode
+    400002: Floor_Object007
+    400004: Floor_Object008
+    400006: Floor_Object009
+    400008: Floor_Object010
+    400010: Floor_Object011
+    400012: Floor_Object012
+    400014: Object001
+    400016: Object002
+    400018: Object003
+    400020: Object004
+    400022: Object005
+    400024: Rectangle004
+    400026: Rectangle005
+    400028: Rectangle007
+    2300000: Floor_Object007
+    2300002: Floor_Object008
+    2300004: Floor_Object009
+    2300006: Floor_Object010
+    2300008: Floor_Object011
+    2300010: Floor_Object012
+    2300012: Object001
+    2300014: Object002
+    2300016: Object003
+    2300018: Object004
+    2300020: Object005
+    2300022: Rectangle004
+    2300024: Rectangle005
+    2300026: Rectangle007
+    3300000: Floor_Object007
+    3300002: Floor_Object008
+    3300004: Floor_Object009
+    3300006: Floor_Object010
+    3300008: Floor_Object011
+    3300010: Floor_Object012
+    3300012: Object001
+    3300014: Object002
+    3300016: Object003
+    3300018: Object004
+    3300020: Object005
+    3300022: Rectangle004
+    3300024: Rectangle005
+    3300026: Rectangle007
+    4300000: Floor_Object011
+    4300002: Floor_Object012
+    4300004: Floor_Object007
+    4300006: Object001
+    4300008: Object002
+    4300010: Object003
+    4300012: Rectangle007
+    4300014: Object004
+    4300016: Rectangle005
+    4300018: Rectangle004
+    4300020: Floor_Object008
+    4300022: Floor_Object009
+    4300024: Floor_Object010
+    4300026: Object005
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 8
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
