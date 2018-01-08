@@ -9,7 +9,7 @@ namespace CompleteProject
         public float sinkSpeed = 2.5f;              // The speed at which the enemy sinks through the floor when dead.
         public int scoreValue = 1;                 // The amount added to the player's score when the enemy dies.
         public AudioClip deathClip;                 // The sound to play when the enemy dies.
-
+        public GameObject NewAmmo;
 
         Animator anim;                              // Reference to the animator.
         AudioSource enemyAudio;                     // Reference to the audio source.
@@ -72,17 +72,20 @@ namespace CompleteProject
         }
 
 
-        public void StartSinking ()
+        public void StartSinking()
         {
-            GetComponent <UnityEngine.AI.NavMeshAgent> ().enabled = false;
+            GetComponent<UnityEngine.AI.NavMeshAgent>().enabled = false;
 
-            GetComponent <Rigidbody> ().isKinematic = true;
+            GetComponent<Rigidbody>().isKinematic = true;
 
             isSinking = true;
 
             ScoreManager.score += 1;
 
-            Destroy (gameObject, 2f);
+            Destroy(gameObject, 2f);
+
+            Instantiate(NewAmmo,transform.position,transform.rotation);
+
         }
     }
 }

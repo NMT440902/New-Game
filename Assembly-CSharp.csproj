@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A9F3B08B-B080-2613-315A-B58AC7515855}</ProjectGuid>
+    <ProjectGuid>{77DF3E44-A385-4AA6-9AEB-65150BC73561}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -116,6 +116,7 @@
      <Compile Include="Assets\PostProcessing\Runtime\Utils\GraphicsUtils.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
+     <Compile Include="Assets\Scripts\AmmoMeneger.cs" />
      <Compile Include="Assets\Scripts\Manipulator.cs" />
      <Compile Include="Assets\Scripts\ResetHealth.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />

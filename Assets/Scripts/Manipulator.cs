@@ -31,7 +31,7 @@ namespace CompleteProject
             else if (status == true && Input.GetKeyDown(KeyCode.E))
             {
                 playerMovement.ManipulatorTargetDetach(transform);
-                //playerAttake.changeTypeAtacke(0);
+                playerAttake.changeTypeAtacke(0);
                 status = false;
             }
 
